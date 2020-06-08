@@ -6,4 +6,12 @@ It Simply Provides Full Validation for All of the Input Fields Including Usernam
 * Full Validation for All of the Input Fields.
 
 # The Used Technologies
-HTML, HTML5, CSS3, CSS3, Font Awesome CSS Library, JavaScript, jQuery, Bootstrap & PHP.
+* HTML
+* HTML5
+* CSS3
+* CSS3
+* Font Awesome CSS Library
+* JavaScript
+* jQuery
+* Bootstrap
+* PHP
