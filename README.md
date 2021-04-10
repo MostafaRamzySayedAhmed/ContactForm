@@ -15,4 +15,4 @@ It's a Responsive Form Providing Full Validation for All of the Input Fields Inc
 * JavaScript
 * jQuery
 * Bootstrap
-* PHP.
+* PHP
