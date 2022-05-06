@@ -1,5 +1,5 @@
 # Contact Form
-It's a Responsive Contact Form Providing Full Validation for All Input Fields Like Username, E-Mail & Phone Number.
+It's a Responsive Contact Form Providing Full Validation for All Input Fields Like Username, E-Mail & Phone Number
 
 # The Features
 * The Responsive, Simple & Classic Design.
