@@ -8,8 +8,6 @@ It's a Responsive Contact Form.
 
 # The Used Technologies
 * HTML
-* HTML5
-* CSS3
 * CSS3
 * Font Awesome CSS Library
 * JavaScript
