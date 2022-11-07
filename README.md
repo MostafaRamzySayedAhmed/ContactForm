@@ -1,5 +1,5 @@
 # Contact Form
-It's a Responsive Contact Form.
+It's a Responsive Contact Form
 
 # The Features
 * The Responsive & Classic Design.
